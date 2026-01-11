@@ -1,0 +1,14 @@
+# Ignore Data Files (Too large for GitHub)
+*.npy
+*.npz
+*.h5
+*.keras
+*.dat
+
+# Ignore System Junk
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+checkpoints/
+archive/

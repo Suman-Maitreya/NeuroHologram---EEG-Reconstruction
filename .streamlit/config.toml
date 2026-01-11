@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#007AFF"    # Medical Blue
+backgroundColor = "#FFFFFF" # Clean White
+secondaryBackgroundColor = "#F0F2F6" # Light Grey for sidebar
+textColor = "#262730"       # Dark Text for readability
+font = "sans serif"
+
+[server]
+headless = true

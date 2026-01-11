@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tensorflow
+mne
+plotly
+scipy
+streamlit
