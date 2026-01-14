@@ -1,0 +1,9 @@
+DATASET DOWNLOAD INSTRUCTIONS
+=============================
+
+Due to file size limits and licensing restrictions, the EEG data is not hosted directly on GitHub.
+
+1. Download the pre-processed data files from the link below:
+   [https://www.kaggle.com/datasets/harshilgupta28/deap-dataset]
+
+We have only used a part of the dataset :- {s01.dat}
